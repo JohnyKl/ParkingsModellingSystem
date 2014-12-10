@@ -1,0 +1,17 @@
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.exe.config
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.exe
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.pdb
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.Properties.Resources.resources
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.csproj.GenerateResource.Cache
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.exe
+c:\users\mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.pdb
+C:\Users\Mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.ParkingWindow.resources
+C:\Users\Mordochka\documents\visual studio 2012\Projects\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.csprojResolveAssemblyReference.cache
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.exe.config
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.exe
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.pdb
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.exe
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\bin\Debug\Poholchuk_kursova.pdb
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.ParkingWindow.resources
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.Properties.Resources.resources
+E:\КУРСОВІ\Poholchuk_kursova\Poholchuk_kursova\obj\Debug\Poholchuk_kursova.csproj.GenerateResource.Cache
